@@ -1,4 +1,4 @@
-TEST-PASTE-PROBE# MFCAD-Net
+# MFCAD-Net
 
 **Turning hand-drawn mechanical sketches into parametric CAD geometry.**
 
