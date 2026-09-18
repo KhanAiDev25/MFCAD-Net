@@ -4,12 +4,6 @@
 
 Photograph a sketch on paper. Get back typed geometric primitives — lines, circles and arcs with real parameters — instead of a picture that merely looks like a drawing.
 
-![Hand-drawn sketch reconstructed as measured geometry](docs/hero_dimensioned.png)
-
-*Left: a real hand-drawn sketch, photographed. Right: reconstructed geometry with automatically placed dimension labels.*
-
----
-
 ## The problem
 
 A generative model can produce something that looks like a clean drawing. That is not the same as producing geometry you can machine from. A CAD file needs each entity to be a typed primitive with parameters: this is a circle at (x, y) of radius r, not a plausible arrangement of dark pixels.
